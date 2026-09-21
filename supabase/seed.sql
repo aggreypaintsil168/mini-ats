@@ -1,0 +1,4 @@
+-- Optional demo data. Replace organization_id with the id created during bootstrap.
+-- insert into public.jobs (organization_id,title,department,location,employment_type) values
+-- ('YOUR_ORG_UUID','Senior Product Designer','Product','Remote · Europe','Full-time'),
+-- ('YOUR_ORG_UUID','Backend Engineer','Engineering','London, UK','Full-time');
